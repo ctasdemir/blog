@@ -1,0 +1,29 @@
+21 Günde Uzman olunur mu?
+Posted on 11 Şubat 2006 by ctasdemir
+Önceki yazımda öğrenmekten bahsetmiştim ve şimdi de bu konuya devam edelim.
+Piyasada “21 günde ….. öğrenin” şeklinde birçok kitap bulunuyor. Bahsettikleri konular da öyle basit şeyler değil. Fakat vaatleri çok büyük. Uzmanlaşmak için belki yıllar gerek gereken bir konuyu öğrenmek bu kadar kolay mı? Peter Norvig de bu konu üzerine yazdığı bir makalesinde bu konudan bahsetmiş. (Makalenin orjinali ve Türkçe çevirisinin linklerini yazımın sonunda bulabilirsiniz). Bakın ne diyor:
+
+“Araştırmacıların da (Hayes, Bloom) ortaya koyduğu üzere, satranç oynamaktan beste yapmaya, resimden piyanoya, yüzmeden tenise ya da nöropiskoloji ve topoloji alanlarında araştırma yapmaya kadar bir çok alanda uzman olmak, on yıl civarında bir zaman alıyor ve bunun bir kısayolu var gibi de gözükmüyor. Daha 4 yaşında müzik dahisi olduğu anlaşılan Mozart bile, ancak 13 sene sonra dünya çapında ses getirecek bestelerini yapmaya başlamış.”
+
+
+Peter Norvig’in makalesi programcılığa yönelik olsa da birçok alan için geçerli. Hiçbir konuda uzmanlaşmak 21 günde ya da 3 ayda sağlanacak kadar kolay birşey değil. Tamam bu işlerin zaman alacağını kabul ettik. Peki şimdi ne yapmalıyız? İlgilendiğimiz alanla ilgili bütün kitapları okusak bu yeterli olur mu? Yine Peter’a kulak verelim:
+
+“Sadece kitaplardan öğrendiklerinizle ne kadar ilerleyebileceğiniz tartışılır. İlk çocuğum doğmadan önce, bütün How To (Nasıl) … kitaplarını okumuştum ve buna rağmen kendimi hala bilgisiz bir çömez gibi hissediyordum. 30 ay sonra, ikinci çocuğum doğacakken, bir tekrar için kitaplara geri mi döndüm dersiniz? Hayır, bunun yerine kişisel tecrübelerime güvendim ve daha sonra gördüm ki bu, uzmanlar tarafından yazılmış binlerce sayfadan çok daha yararlı ve güven verici. “
+
+Bisiklet sürmek için istediğimiz kadar kitap okuyalım, onu gerçekten yapmadan bunun nasıl birşey olduğunu anlayamayız. Demek ki uzmanlaşmak istediğimiz şey her ne ise bu konuda tecrübe sahibi olmak demek bilfiil o işle uğraşıyor olmak demek.
+Gömülü sistemler konusunda makaleler yazan Jack Ganssle Nasıl Gömülü Sistemler uzmanı olunur? (how to become a embedded geek?) adlı makalesinde bu konuda benzer şeylerden bahsetmektedir:
+
+“Birşeyler yapın:
+Kitap bilgisi elbette gereklidir ancak pratikle de desteklenmelidir. Projeler yapın. Birşeyler ortaya çıkarın. Onları çalışır hale getirin. Problemlerin ortaya çıkmasına şaşırmayın ama onlara çözüm üretin. Bir projeyi sadece zor diye veya kafanız karıştı diye bırakmayın. Gerçek gelişimler, başlangıçta çözümsüz görünen patron isteklerinin ürünleridir”
+
+Buradan görüyoruz ki ilgilendiğimiz konudaki bilgi kaynaklarından elbette faydalanacağız. Ancak bize gerçek anlamda katkı yapacak şey yine kendi çabalarımız ve bu çabalar sonucunda elde edeceklerimiz olacak.
+Ben de son günlerde C dili ve bu dille mikrodenetleyicilerin programlanması çalışmaları yapıyorum. Her gerçekleştirdiğim küçük adım bana yeni bir bilgi, yeni bir tecrübe katıyor. Yaptığınız şey ne kadar ufak da olsa sonuçtaki başarının verdiği keyif inanılmaz. O zaman ne duruyorsunuz!  Biryerden başlayın. Sadece bir LED’i yakmak bile, ilerideki büyük bir projenin ilk ışığı olabilir.
+
+Ek:
+Peter Norvig’in yazısının Türkçe çevirisi:
+http://ileriseviye.org/arasayfa.php?inode=programmingtenyears.html
+Orjinali:
+http://www.norvig.com/21-days.html
+
+*Jack Ganssle www.embedded.com sitesinde gömülü sistemler üzerine makaleler yazmaktadır.
+Ayrıca www.ganssle.com adresinde başka yazıları da bulunmaktadır.Gömülü sistemlerle ilgilenenlere “how to become a embedded geek?” yazısını indirmelerini tavsiye ederim.
